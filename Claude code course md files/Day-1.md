@@ -46,13 +46,7 @@ git config --global user.name "Your Name"
 git config --global user.email "your-email@example.com"
 ```
 
-### Step 4: Install Cursor AI Editor
-1. Go to https://cursor.com
-2. Download and install
-3. Sign up for free account
-4. It looks exactly like VS Code but with AI built in
-
-### Step 5: Install Node.js
+### Step 4: Install Node.js
 1. Go to https://nodejs.org
 2. Download the LTS (Long Term Support) version
 3. Install with defaults

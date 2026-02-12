@@ -88,8 +88,8 @@ In this code: [paste code]
 What's wrong and how do I fix it?
 ```
 
-**Exercise with Cursor:** Open your portfolio project in Cursor.
-Press Ctrl + L and type:
+**Exercise with Claude Code:** Open your portfolio project with Claude Code.
+Type this prompt:
 "Check all my JavaScript files for potential bugs. Look for:
 - Variables that might be null or undefined
 - Event listeners on elements that might not exist
@@ -121,7 +121,7 @@ Go through this list. Check each one:
 
 ### Using AI to Write Tests:
 
-Ask Claude Code or Cursor:
+Ask Claude Code:
 "Write simple test cases for my JavaScript functions.
 For each function, test:
 - Does it return the correct result with normal input?

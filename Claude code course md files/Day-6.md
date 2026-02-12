@@ -90,9 +90,9 @@ study-buddy/
     storage.js
 ```
 
-### Step 3: Use Cursor Agent Mode for the Big Build (30 min)
+### Step 3: Use Claude Code for the Big Build (30 min)
 
-Open your project folder in Cursor. Press Ctrl + I (Agent mode).
+Open your project folder in VS Code with Claude Code running.
 
 Here's a template prompt. Modify it for YOUR chosen project:
 
@@ -246,7 +246,7 @@ Add ONE advanced feature to your tool. Pick one:
 - Search/filter functionality
 - Drag-and-drop to reorder items
 
-Use Cursor or Claude Code. Push to GitHub when done.
+Use Claude Code to build it. Push to GitHub when done.
 
 ---
 

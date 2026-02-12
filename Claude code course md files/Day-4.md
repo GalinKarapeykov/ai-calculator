@@ -13,8 +13,7 @@ in your TERMINAL. You're literally using it right now to read this course.
 | Tool | Best For |
 |------|----------|
 | GitHub Copilot | Quick code suggestions while typing |
-| Cursor AI | Multi-file editing and agent tasks |
-| Claude Code | Large projects, code review, complex tasks |
+| Claude Code | Multi-file editing, large projects, code review, complex tasks |
 | ChatGPT | Quick questions, explanations |
 
 ### Why Claude Code is powerful:
@@ -89,8 +88,7 @@ you can actually show to clients to get freelance work.
 
 ### The Big Build
 
-Ask Claude Code (or Cursor Agent) to help you build this. Here's a
-detailed prompt:
+Ask Claude Code to help you build this. Here's a detailed prompt:
 
 ```
 I need a professional portfolio website. I'm a 16-year-old web developer
@@ -132,7 +130,7 @@ FILES:
 - js/animations.js
 ```
 
-### After Claude/Cursor Builds It:
+### After Claude Code Builds It:
 
 1. Open in browser - does it look good?
 2. Resize browser window - does it work on mobile?
@@ -171,9 +169,9 @@ You said you want to make money fast. Here's the reality at 16:
 
 ## QUIZ
 
-1. What makes Claude Code different from Cursor?
+1. What makes Claude Code different from GitHub Copilot?
    a) It's faster
-   b) It works in the terminal and can handle very large projects
+   b) It works in the terminal and can handle very large projects with full context
    c) It's free
 
 2. What is a "code review"?
