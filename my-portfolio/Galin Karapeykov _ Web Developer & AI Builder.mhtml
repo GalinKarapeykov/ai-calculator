@@ -1,0 +1,378 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/galin/OneDrive/Desktop/Claude%20vibe%20coding/Claude%20vibe%20coding%20course/index.html
+Subject: Galin Karapeykov | Web Developer & AI Builder
+Date: Thu, 12 Feb 2026 23:23:02 +0200
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--2Jt4QUiSRkTrwOkQ6OzaXDntAIRNr1uELH7e1SAMoH----"
+
+
+------MultipartBoundary--2Jt4QUiSRkTrwOkQ6OzaXDntAIRNr1uELH7e1SAMoH----
+Content-Type: text/html
+Content-ID: <frame-06C08F97156AB958AE3E229DE4073F97@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/galin/OneDrive/Desktop/Claude%20vibe%20coding/Claude%20vibe%20coding%20course/index.html
+
+<!DOCTYPE html><html lang=3D"en" data-theme=3D"dark"><head><meta http-equiv=
+=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><link rel=3D"style=
+sheet" type=3D"text/css" href=3D"cid:css-d70a52e5-244e-476d-8a8b-48e97de9d7=
+3d@mhtml.blink" />
+ =20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+  <title>Galin Karapeykov | Web Developer &amp; AI Builder</title>
+  <link rel=3D"stylesheet" href=3D"file:///C:/Users/galin/OneDrive/Desktop/=
+Claude%20vibe%20coding/Claude%20vibe%20coding%20course/css/style.css">
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <nav>
+      <a href=3D"file:///C:/Users/galin/OneDrive/Desktop/Claude%20vibe%20co=
+ding/Claude%20vibe%20coding%20course/index.html#home" class=3D"logo">GK</a>
+      <ul class=3D"nav-links">
+        <li><a href=3D"file:///C:/Users/galin/OneDrive/Desktop/Claude%20vib=
+e%20coding/Claude%20vibe%20coding%20course/index.html#home" data-i18n=3D"na=
+v-home">Home</a></li>
+        <li><a href=3D"file:///C:/Users/galin/OneDrive/Desktop/Claude%20vib=
+e%20coding/Claude%20vibe%20coding%20course/index.html#about" data-i18n=3D"n=
+av-about">About</a></li>
+        <li><a href=3D"file:///C:/Users/galin/OneDrive/Desktop/Claude%20vib=
+e%20coding/Claude%20vibe%20coding%20course/index.html#expertise" data-i18n=
+=3D"nav-expertise">Expertise</a></li>
+        <li><a href=3D"file:///C:/Users/galin/OneDrive/Desktop/Claude%20vib=
+e%20coding/Claude%20vibe%20coding%20course/index.html#projects" data-i18n=
+=3D"nav-projects">Projects</a></li>
+        <li><a href=3D"file:///C:/Users/galin/OneDrive/Desktop/Claude%20vib=
+e%20coding/Claude%20vibe%20coding%20course/index.html#contact" data-i18n=3D=
+"nav-contact">Contact</a></li>
+      </ul>
+      <div class=3D"nav-controls">
+        <button class=3D"toggle-lang" aria-label=3D"Switch language">BG</bu=
+tton>
+        <button class=3D"toggle-theme" aria-label=3D"Toggle theme">
+          <svg class=3D"icon-sun" width=3D"18" height=3D"18" viewBox=3D"0 0=
+ 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2"><circle cx=
+=3D"12" cy=3D"12" r=3D"5"></circle><line x1=3D"12" y1=3D"1" x2=3D"12" y2=3D=
+"3"></line><line x1=3D"12" y1=3D"21" x2=3D"12" y2=3D"23"></line><line x1=3D=
+"4.22" y1=3D"4.22" x2=3D"5.64" y2=3D"5.64"></line><line x1=3D"18.36" y1=3D"=
+18.36" x2=3D"19.78" y2=3D"19.78"></line><line x1=3D"1" y1=3D"12" x2=3D"3" y=
+2=3D"12"></line><line x1=3D"21" y1=3D"12" x2=3D"23" y2=3D"12"></line><line =
+x1=3D"4.22" y1=3D"19.78" x2=3D"5.64" y2=3D"18.36"></line><line x1=3D"18.36"=
+ y1=3D"5.64" x2=3D"19.78" y2=3D"4.22"></line></svg>
+          <svg class=3D"icon-moon" width=3D"18" height=3D"18" viewBox=3D"0 =
+0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2"><path d=
+=3D"M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+        </button>
+        <button class=3D"menu-toggle" aria-label=3D"Toggle menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+    </nav>
+  </header>
+
+  <!-- MAIN CONTENT -->
+  <main>
+
+    <!-- HOME / HERO -->
+    <section id=3D"home" class=3D"hero">
+      <div class=3D"hero-badge" data-i18n=3D"hero-badge">Available for free=
+lance work</div>
+      <h1 data-i18n-html=3D"hero-title">Hey, I'm <span class=3D"accent">Gal=
+in Karapeykov</span>.<br>I build things with code&nbsp;+&nbsp;AI.</h1>
+      <p data-i18n=3D"hero-desc">I'm a 16-year-old developer learning AI-as=
+sisted development. I use tools like Claude Code and GitHub Copilot to buil=
+d real websites and web apps =E2=80=94 fast.</p>
+      <div class=3D"hero-buttons">
+        <a href=3D"file:///C:/Users/galin/OneDrive/Desktop/Claude%20vibe%20=
+coding/Claude%20vibe%20coding%20course/index.html#projects" class=3D"btn bt=
+n-primary" data-i18n=3D"hero-btn-projects">View My Projects</a>
+        <a href=3D"file:///C:/Users/galin/OneDrive/Desktop/Claude%20vibe%20=
+coding/Claude%20vibe%20coding%20course/index.html#contact" class=3D"btn btn=
+-secondary" data-i18n=3D"hero-btn-contact">Get In Touch</a>
+      </div>
+    </section>
+
+    <!-- ABOUT ME -->
+    <section id=3D"about">
+      <div class=3D"section-header reveal">
+        <h2 data-i18n=3D"about-title">About Me</h2>
+        <p data-i18n=3D"about-subtitle">Who I am and what I do</p>
+      </div>
+
+      <div class=3D"about-content reveal">
+        <div class=3D"about-text">
+          <p data-i18n-html=3D"about-p1">I'm <strong>Galin Karapeykov</stro=
+ng>, a 16-year-old web developer from Bulgaria. I specialize in <strong>AI-=
+assisted development</strong> =E2=80=94 using tools like Claude Code and Gi=
+tHub Copilot to build real websites and web applications faster than tradit=
+ional coding.</p>
+
+          <p data-i18n=3D"about-p2">I know JavaScript basics and I'm consta=
+ntly expanding my skills. I build everything from interactive calculators t=
+o full portfolio websites, and I'm learning how to turn these skills into f=
+reelance work =E2=80=94 building sites for local businesses, landing pages,=
+ and simple web apps.</p>
+
+          <p data-i18n-html=3D"about-p3">I'm currently studying <strong>AI =
+Integrations for Developers</strong> at SoftUni, where I'm learning to conn=
+ect to LLM APIs, work with vector databases and embeddings, build RAG syste=
+ms, and handle multimodal AI (images, speech, audio). Next up is <strong>AI=
+ Agent and Workflows</strong> =E2=80=94 covering LangChain agents, memory s=
+ystems, and multi-agent coordination with LangGraph.</p>
+
+          <p data-i18n=3D"about-p4">My goal is to combine web development w=
+ith AI to build tools that actually help people. I don't just let AI write =
+code for me =E2=80=94 I understand every line, debug issues myself, and kee=
+p learning the fundamentals.</p>
+        </div>
+
+        <div class=3D"about-details">
+          <div class=3D"detail-item">
+            <span class=3D"detail-label" data-i18n=3D"detail-location">Loca=
+tion</span>
+            <span class=3D"detail-value" data-i18n=3D"detail-location-val">=
+Bulgaria</span>
+          </div>
+          <div class=3D"detail-item">
+            <span class=3D"detail-label" data-i18n=3D"detail-focus">Focus</=
+span>
+            <span class=3D"detail-value" data-i18n=3D"detail-focus-val">Web=
+ Dev + AI</span>
+          </div>
+          <div class=3D"detail-item">
+            <span class=3D"detail-label" data-i18n=3D"detail-tools">Tools</=
+span>
+            <span class=3D"detail-value">Claude Code, Copilot, VS Code</spa=
+n>
+          </div>
+          <div class=3D"detail-item">
+            <span class=3D"detail-label" data-i18n=3D"detail-learning">Lear=
+ning</span>
+            <span class=3D"detail-value" data-i18n=3D"detail-learning-val">=
+AI Integrations, LangChain, Next.js</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- EXPERTISE -->
+    <section id=3D"expertise">
+      <div class=3D"section-header reveal">
+        <h2 data-i18n=3D"expertise-title">Expertise</h2>
+        <p data-i18n=3D"expertise-subtitle">Technologies I work with</p>
+      </div>
+
+      <div class=3D"expertise-grid">
+        <div class=3D"skill-box reveal" style=3D"--bar-color: #f7df1e;">
+          <div class=3D"skill-inner">
+            <div class=3D"skill-front">
+              <div class=3D"skill-bar"></div>
+              <span class=3D"skill-name">JavaScript</span>
+            </div>
+            <div class=3D"skill-back">
+              <div class=3D"skill-bar"></div>
+              <p data-i18n=3D"skill-js">The programming language of the web=
+. Makes sites interactive =E2=80=94 clicks, animations, form validation, an=
+d dynamic content.</p>
+            </div>
+          </div>
+        </div>
+        <div class=3D"skill-box reveal" style=3D"--bar-color: #e34f26;">
+          <div class=3D"skill-inner">
+            <div class=3D"skill-front">
+              <div class=3D"skill-bar"></div>
+              <span class=3D"skill-name">HTML</span>
+            </div>
+            <div class=3D"skill-back">
+              <div class=3D"skill-bar"></div>
+              <p data-i18n=3D"skill-html">The skeleton of every webpage. De=
+fines structure =E2=80=94 headings, paragraphs, images, links, and forms. T=
+he foundation of the web.</p>
+            </div>
+          </div>
+        </div>
+        <div class=3D"skill-box reveal" style=3D"--bar-color: #a259ff;">
+          <div class=3D"skill-inner">
+            <div class=3D"skill-front">
+              <div class=3D"skill-bar"></div>
+              <span class=3D"skill-name">CSS</span>
+            </div>
+            <div class=3D"skill-back">
+              <div class=3D"skill-bar"></div>
+              <p data-i18n=3D"skill-css">The design language of the web. Co=
+ntrols colors, fonts, layouts, animations, and responsiveness. Makes sites =
+look professional.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- PROJECTS -->
+    <section id=3D"projects">
+      <div class=3D"section-header reveal">
+        <h2 data-i18n=3D"projects-title">My Projects</h2>
+        <p data-i18n=3D"projects-subtitle">Things I've built with code and =
+AI</p>
+      </div>
+
+      <div class=3D"projects-grid">
+        <div class=3D"project-card reveal">
+          <div class=3D"project-image" data-i18n=3D"proj-img">Screenshot co=
+ming soon</div>
+          <div class=3D"project-info">
+            <h3 data-i18n=3D"proj1-title">AI Calculator</h3>
+            <p data-i18n=3D"proj1-desc">My first project =E2=80=94 an inter=
+active calculator built with JavaScript. Handles basic math operations with=
+ a clean UI.</p>
+            <div class=3D"project-tags">
+              <span class=3D"tag">HTML</span>
+              <span class=3D"tag">CSS</span>
+              <span class=3D"tag">JavaScript</span>
+            </div>
+            <div class=3D"project-links">
+              <a href=3D"file:///C:/Users/galin/OneDrive/Desktop/Claude%20v=
+ibe%20coding/Claude%20vibe%20coding%20course/index.html#" data-i18n=3D"proj=
+-code">View Code</a>
+              <a href=3D"file:///C:/Users/galin/OneDrive/Desktop/Claude%20v=
+ibe%20coding/Claude%20vibe%20coding%20course/index.html#" data-i18n=3D"proj=
+-demo">Live Demo</a>
+            </div>
+          </div>
+        </div>
+
+        <div class=3D"project-card reveal">
+          <div class=3D"project-image" data-i18n=3D"proj-img">Screenshot co=
+ming soon</div>
+          <div class=3D"project-info">
+            <h3 data-i18n=3D"proj2-title">Portfolio Website</h3>
+            <p data-i18n=3D"proj2-desc">This website! A responsive, dark-th=
+emed portfolio built with vanilla HTML, CSS, and JavaScript using AI-assist=
+ed development.</p>
+            <div class=3D"project-tags">
+              <span class=3D"tag">HTML</span>
+              <span class=3D"tag">CSS</span>
+              <span class=3D"tag">JavaScript</span>
+              <span class=3D"tag">AI-Assisted</span>
+            </div>
+            <div class=3D"project-links">
+              <a href=3D"file:///C:/Users/galin/OneDrive/Desktop/Claude%20v=
+ibe%20coding/Claude%20vibe%20coding%20course/index.html#" data-i18n=3D"proj=
+-code">View Code</a>
+              <a href=3D"file:///C:/Users/galin/OneDrive/Desktop/Claude%20v=
+ibe%20coding/Claude%20vibe%20coding%20course/index.html#" data-i18n=3D"proj=
+-demo">Live Demo</a>
+            </div>
+          </div>
+        </div>
+
+        <div class=3D"project-card add-project reveal">
+          <div class=3D"add-icon">+</div>
+          <p data-i18n=3D"proj-more">More projects coming soon</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section id=3D"contact">
+      <div class=3D"section-header reveal">
+        <h2 data-i18n=3D"contact-title">Get In Touch</h2>
+        <p data-i18n=3D"contact-subtitle">Have a project in mind? Let's tal=
+k.</p>
+      </div>
+
+      <div class=3D"contact-container">
+        <form id=3D"contact-form">
+          <div class=3D"form-group reveal">
+            <label for=3D"name" data-i18n=3D"form-name">Name</label>
+            <input type=3D"text" id=3D"name" placeholder=3D"Your name" data=
+-i18n-ph=3D"form-name-ph">
+            <p class=3D"error-message" data-i18n=3D"err-name">Please enter =
+your name</p>
+          </div>
+
+          <div class=3D"form-group reveal">
+            <label for=3D"email" data-i18n=3D"form-email">Email</label>
+            <input type=3D"email" id=3D"email" placeholder=3D"you@example.c=
+om">
+            <p class=3D"error-message" data-i18n=3D"err-email">Please enter=
+ a valid email</p>
+          </div>
+
+          <div class=3D"form-group reveal">
+            <label for=3D"message" data-i18n=3D"form-message">Message</labe=
+l>
+            <textarea id=3D"message" placeholder=3D"Tell me about your proj=
+ect..." data-i18n-ph=3D"form-msg-ph"></textarea>
+            <p class=3D"error-message" data-i18n=3D"err-message">Please ent=
+er a message</p>
+          </div>
+
+          <button type=3D"submit" class=3D"btn btn-primary reveal" style=3D=
+"width: 100%; justify-content: center;" data-i18n=3D"form-send">
+            Send Message
+          </button>
+        </form>
+
+        <div class=3D"success-message">
+          <div class=3D"success-icon">
+            <svg viewBox=3D"0 0 24 24"><path d=3D"M4 12l6 6L20 6"></path></=
+svg>
+          </div>
+          <h2 data-i18n=3D"success-title">Message Sent!</h2>
+          <p data-i18n=3D"success-desc">Thanks for reaching out. I'll get b=
+ack to you soon.</p>
+          <button id=3D"reset-form" class=3D"btn btn-secondary" style=3D"ma=
+rgin-top: 24px;" data-i18n=3D"form-reset">Send Another Message</button>
+        </div>
+
+        <a href=3D"https://github.com/GalinKarapeykov" target=3D"_blank" re=
+l=3D"noopener noreferrer" class=3D"btn btn-github contact-github">
+          <svg width=3D"20" height=3D"20" viewBox=3D"0 0 24 24" fill=3D"cur=
+rentColor"><path d=3D"M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.=
+385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735=
+-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.=
+015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765=
+-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.5=
+4-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .=
+405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 =
+1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605=
+-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.=
+37-12-12-12z"></path></svg>
+          <span data-i18n=3D"github-btn">Find me on GitHub</span>
+        </a>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- FOOTER -->
+  <footer>
+    <p data-i18n-html=3D"footer">Built by <strong>Galin Karapeykov</strong>=
+ with AI-Assisted Development =E2=80=A2 2026</p>
+  </footer>
+
+ =20
+
+
+</body></html>
+------MultipartBoundary--2Jt4QUiSRkTrwOkQ6OzaXDntAIRNr1uELH7e1SAMoH----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/galin/OneDrive/Desktop/Claude%20vibe%20coding/Claude%20vibe%20coding%20course/css/style.css
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--2Jt4QUiSRkTrwOkQ6OzaXDntAIRNr1uELH7e1SAMoH----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-d70a52e5-244e-476d-8a8b-48e97de9d73d@mhtml.blink
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--2Jt4QUiSRkTrwOkQ6OzaXDntAIRNr1uELH7e1SAMoH------
