@@ -30,8 +30,10 @@ As you type, it suggests the next lines of code. Like autocomplete on steroids.
 ### Install in VS Code:
 1. Open VS Code
 2. Go to Extensions (Ctrl+Shift+X)
-3. Search "GitHub Copilot"
-4. Install both "GitHub Copilot" and "GitHub Copilot Chat"
+3. Search "GitHub Copilot Chat"
+4. Install **"GitHub Copilot Chat"** - this is the ONLY extension you need
+   (The old "GitHub Copilot" extension was merged into this one.
+   If you see it crossed out, that's normal - ignore it.)
 5. Sign in with your GitHub account
 
 ---

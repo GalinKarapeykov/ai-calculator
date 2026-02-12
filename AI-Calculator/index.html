@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Calculator</title>
+    <style>
+        /* RESET - removes default browser spacing */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* BODY - dark background, centers the calculator on screen */
+        body {
+            background-color: #1a1a2e;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        /* CALCULATOR CONTAINER - the main box */
+        .calculator {
+            background-color: #16213e;
+            border-radius: 20px;
+            padding: 24px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+            width: 320px;
+        }
+
+        /* DISPLAY - shows the current number at the top */
+        .display {
+            background-color: #0f3460;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            text-align: right;
+            min-height: 80px;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+        }
+
+        /* Small text showing the previous operation */
+        .display .previous {
+            color: #7f8fa6;
+            font-size: 14px;
+            min-height: 20px;
+        }
+
+        /* Big text showing the current number */
+        .display .current {
+            color: #ffffff;
+            font-size: 36px;
+            font-weight: bold;
+            word-break: break-all;
+        }
+
+        /* BUTTON GRID - 4 columns layout */
+        .buttons {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 12px;
+        }
+
+        /* INDIVIDUAL BUTTON STYLE */
+        .btn {
+            padding: 18px;
+            font-size: 20px;
+            border: none;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: transform 0.1s, background-color 0.2s;
+            font-weight: 600;
+        }
+
+        /* Button hover/click animation */
+        .btn:hover {
+            transform: scale(1.05);
+        }
+
+        .btn:active {
+            transform: scale(0.95);
+        }
+
+        /* NUMBER BUTTONS (0-9 and .) */
+        .btn-number {
+            background-color: #1a1a40;
+            color: #ffffff;
+        }
+
+        .btn-number:hover {
+            background-color: #2a2a50;
+        }
+
+        /* OPERATOR BUTTONS (+, -, *, /) */
+        .btn-operator {
+            background-color: #e94560;
+            color: #ffffff;
+        }
+
+        .btn-operator:hover {
+            background-color: #ff6b81;
+        }
+
+        /* EQUALS BUTTON */
+        .btn-equals {
+            background-color: #533483;
+            color: #ffffff;
+        }
+
+        .btn-equals:hover {
+            background-color: #6c44a2;
+        }
+
+        /* CLEAR BUTTON */
+        .btn-clear {
+            background-color: #e94560;
+            color: #ffffff;
+            grid-column: span 2;  /* Takes up 2 columns */
+        }
+
+        .btn-clear:hover {
+            background-color: #ff6b81;
+        }
+
+        /* ZERO BUTTON - spans 2 columns */
+        .btn-zero {
+            grid-column: span 2;
+        }
+    </style>
+</head>
+<body>
+    <div class="calculator">
+        <!-- DISPLAY AREA - shows numbers at the top -->
+        <div class="display">
+            <div class="previous" id="previous"></div>
+            <div class="current" id="current">0</div>
+        </div>
+
+        <!-- BUTTON GRID -->
+        <div class="buttons">
+            <!-- Row 1: Clear and operators -->
+            <button class="btn btn-clear" onclick="clearDisplay()">C</button>
+            <button class="btn btn-operator" onclick="setOperator('/')">/</button>
+            <button class="btn btn-operator" onclick="setOperator('*')">*</button>
+
+            <!-- Row 2: 7, 8, 9, minus -->
+            <button class="btn btn-number" onclick="appendNumber('7')">7</button>
+            <button class="btn btn-number" onclick="appendNumber('8')">8</button>
+            <button class="btn btn-number" onclick="appendNumber('9')">9</button>
+            <button class="btn btn-operator" onclick="setOperator('-')">-</button>
+
+            <!-- Row 3: 4, 5, 6, plus -->
+            <button class="btn btn-number" onclick="appendNumber('4')">4</button>
+            <button class="btn btn-number" onclick="appendNumber('5')">5</button>
+            <button class="btn btn-number" onclick="appendNumber('6')">6</button>
+            <button class="btn btn-operator" onclick="setOperator('+')">+</button>
+
+            <!-- Row 4: 1, 2, 3, equals -->
+            <button class="btn btn-number" onclick="appendNumber('1')">1</button>
+            <button class="btn btn-number" onclick="appendNumber('2')">2</button>
+            <button class="btn btn-number" onclick="appendNumber('3')">3</button>
+            <button class="btn btn-equals" onclick="calculate()">=</button>
+
+            <!-- Row 5: 0 (wide), decimal -->
+            <button class="btn btn-number btn-zero" onclick="appendNumber('0')">0</button>
+            <button class="btn btn-number" onclick="appendNumber('.')">.</button>
+        </div>
+    </div>
+
+    <!-- Link to the JavaScript file -->
+    <script src="script.js"></script>
+</body>
+</html>

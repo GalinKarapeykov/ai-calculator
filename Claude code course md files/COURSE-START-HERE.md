@@ -16,10 +16,10 @@
 
 ## WHAT YOU NEED BEFORE STARTING
 - [x] VS Code (you have this)
-- [ ] GitHub account (FREE) -> https://github.com/signup
+- [x] GitHub account (FREE) -> https://github.com/signup
 - [ ] Cursor AI Editor (FREE tier) -> https://cursor.com
-- [ ] Claude account (you have this)
-- [ ] Node.js installed -> https://nodejs.org (download LTS version)
+- [x] Claude account (you have this)
+- [x] Node.js installed -> https://nodejs.org (download LTS version)
 
 ---
 
